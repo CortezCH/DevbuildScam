@@ -1,0 +1,57 @@
+body{
+    background-image: url("greatDeal.jpeg");
+}
+
+.header{
+    padding-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color:pink;
+    transform: rotate(-13deg);
+    background-color: palegreen;
+}
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2{
+    transform: rotate(15deg);
+}
+
+div p{
+    padding-top: 50px;
+    color: lightgreen;
+    background-color: lightsalmon;
+}
+
+form{
+    padding-top: 50px;
+    color: rgb(9, 192, 238);
+    font-size: 25px;
+    background-color: lightsalmon;
+}
+
+img{
+    border: 5px limegreen solid;
+    height: auto;
+    width: 15%;
+}
+
+img:hover{
+    border: 10px magenta solid;
+}
+
+p:hover{
+    border: 10px magenta solid;
+}
+
+div:hover{
+    border: 10px magenta solid;
+}
+
+form:hover{
+    border: 10px magenta solid;
+}
